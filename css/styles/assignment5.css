@@ -30,6 +30,7 @@ ol {
 
 a {
   text-decoration: none;
+  padding: 0px 5px;
 }
 
 select {
@@ -120,7 +121,9 @@ label {
 .purchase p {
       text-align: center;
       display: flex;
+      flex-direction: row;
       justify-content: center;
+      padding: 2rem;
 }
 .purchase a{
         text-decoration: underline;
@@ -142,7 +145,7 @@ main {
 }
 
 .form-container {
-  width: 1040px;
+  width: 900px;
   height: 795px;
   justify-content: center;
   display: flex;
@@ -326,4 +329,9 @@ main {
 svg {
   fill: #1179bf;
   margin: 0px 10px;
+}
+footer {
+  justify-content: center;
+  text-align: center;
+  margin: 2rem;
 }
