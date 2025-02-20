@@ -4,7 +4,7 @@ margin: 0px;
 
 body {
   background: hsl(238deg 28% 73%);
-  border: 20px solid rgb(203, 203, 228);
+  /*border: 20px solid rgb(203, 203, 228);*/
   line-height: normal;
   padding: 48px 16px;
   height: 100vh;
